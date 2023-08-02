@@ -12,11 +12,10 @@ public class PerfectNum {
 		if(sum==n)
 			System.out.println("Perfect");
 		else
-			System.out.println("Not Perfect");
+			System.out.println("Not Perfect oooo!");
 	}
 	public static void main(String[] args) {
-		int n=33550336;
-		perfect(n);
+		perfect(33550336);
 	}
 
 }
