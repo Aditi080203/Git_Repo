@@ -1,4 +1,4 @@
-package ppt;
+
 
 public class PerfectNum {
 	static void perfect(int n) {
