@@ -1,6 +1,6 @@
-package random;
 
-import random.linkedlist.Node;
+
+//import random.linkedlist.Node;
 
 public class Dll {
 	Node head;
