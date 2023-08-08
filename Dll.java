@@ -1,7 +1,5 @@
 
 
-//import random.linkedlist.Node;
-
 public class Dll {
 	Node head;
 	class Node{
