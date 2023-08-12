@@ -1,4 +1,4 @@
-package random;
+
 import java.util.*;
 public class convertXY {
 	public static int convert_XY(int src, int dst) {

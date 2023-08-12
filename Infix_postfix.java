@@ -1,4 +1,4 @@
-package random;
+
 import java.util.Stack;
 public class Infix_postfix {
 	public static int precedence(char x) {

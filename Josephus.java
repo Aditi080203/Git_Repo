@@ -1,4 +1,4 @@
-package random;
+
 import java.util.Deque;
 import java.util.LinkedList;
 public class Josephus {

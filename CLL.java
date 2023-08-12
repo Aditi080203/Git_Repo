@@ -1,6 +1,4 @@
-package random;
 
-import random.linkedlist.Node;
 
 public class CLL {
 	Node head;
