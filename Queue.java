@@ -1,4 +1,4 @@
-package random;
+
 
 public class Queue {
 	int a[];
