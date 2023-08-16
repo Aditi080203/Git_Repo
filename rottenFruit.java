@@ -1,4 +1,4 @@
-package random;
+
 
 public class rottenFruit {
 	public static void RottenFruitUtil(int[][] arr, int maxCol, int maxRow, int currCol, int currRow, int[][] traversed,int day) { // Range check

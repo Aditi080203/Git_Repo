@@ -1,4 +1,4 @@
-package myjava;
+
 
 public class Wave_form {
 	public static void wave(int ar[]) {
