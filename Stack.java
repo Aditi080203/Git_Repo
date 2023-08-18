@@ -1,4 +1,3 @@
-package random;
 
 public class Stack {
 	int a[];
