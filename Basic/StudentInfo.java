@@ -1,4 +1,4 @@
-
+package Basic;
 import java.util.*;
 
 class Student{

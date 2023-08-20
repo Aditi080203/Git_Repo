@@ -1,4 +1,4 @@
-
+package Basic;
 
 public class PerfectNum {
 	static void perfect(int n) {

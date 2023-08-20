@@ -1,4 +1,4 @@
-
+package Basic;
 import java.util.*;
 public class Union {
 	static void distinct(int a[], int b[]) {

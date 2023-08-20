@@ -1,3 +1,5 @@
+package Basic;
+
 public class Armstrong {
     static boolean isArmstrong(int n) {
         int num = n;
