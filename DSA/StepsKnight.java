@@ -1,4 +1,4 @@
-package random;
+
 
 public class StepsKnight {
 	public static void StepsOfKnightUtil(int size, int currCol, int currRow, int[][]traversed, int dist) {

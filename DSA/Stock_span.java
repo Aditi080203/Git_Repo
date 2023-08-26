@@ -1,4 +1,3 @@
-package random;
 import java.util.Stack;
 public class Stock_span {
 	public static int[] span(int[] ar) {
