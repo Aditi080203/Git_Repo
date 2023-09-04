@@ -13,13 +13,11 @@ class TreeNode {
 public class PostorderTraversal {
     public static void postorderTraversal(TreeNode root) {
         if (root != null) {
-            // Traverse the left subtree
+
             postorderTraversal(root.left);
 
-            // Traverse the right subtree
             postorderTraversal(root.right);
 
-            // Visit the current node
             System.out.print(root.data + " ");
         }
     }
