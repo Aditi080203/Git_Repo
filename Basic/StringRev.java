@@ -1,4 +1,3 @@
-package Basic;
 
 public class StringRev {
     public static void main(String[] args) {

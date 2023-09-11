@@ -1,4 +1,3 @@
-package Basic;
 
 public class ColumnTitle {
     static String convertTitle(int columnNumber) {

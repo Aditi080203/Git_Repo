@@ -1,4 +1,3 @@
-package Basic;
 class repeatedSubstring {
     static boolean substringPattern(String s) {
         int n = s.length();
